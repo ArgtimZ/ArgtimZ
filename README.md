@@ -1,4 +1,3 @@
-# 👋 Hi! I'm @CreatorEzio214
+# 👋 Hi! I'm @ArgtimZ
 
-- I'm an 18 year old pupil from Heidelberg, Germany. 
-- Currently I know Java, SQL, HTML, CSS and JS.
+I'm a 19 year old student from Heidelberg, Germany, who loves programming.
